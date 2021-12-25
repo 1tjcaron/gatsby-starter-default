@@ -9,7 +9,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>Sign up here</h1>
     <p>Sign up today. 
-  <a to="mailto:noolhealth@gmail.com?subject=Join%20Waitlist"> Email Us </a>
+  <a href="mailto:noolhealth@gmail.com?subject=Join%20Waitlist"> Email Us </a>
   to join the waitlist.</p>
   </Layout>
 )
