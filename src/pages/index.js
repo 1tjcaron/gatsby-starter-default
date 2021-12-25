@@ -11,9 +11,6 @@ const IndexPage = () => (
     <p>Sign up today. 
   <Link to="mailto:noolhealth@gmail.com?subject=Join%20Waitlist">Email Us</link>
   to join the waitlist.</p>
-    <p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
-    </p>
   </Layout>
 )
 
